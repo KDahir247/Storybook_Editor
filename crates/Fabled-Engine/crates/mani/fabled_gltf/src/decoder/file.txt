@@ -1,2 +1,0 @@
-process decoding gltf to glb
-since gltf::import_slice is very fast and reading binary data is fast compared to gltf json format
