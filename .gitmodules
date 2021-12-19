@@ -1,0 +1,3 @@
+[submodule "Fabled-Engine"]
+	path = crates/Fabled-Engine
+	url = https://github.com/KDahir247/Fabled-Engine.git
